@@ -1,0 +1,11 @@
+# Ignore compiled JavaScript files
+*.js
+*.js.map
+
+# Ignore other development and build artifacts
+node_modules/
+dist/
+yarn.lock
+
+# Ignore sensitive file
+config.ts
